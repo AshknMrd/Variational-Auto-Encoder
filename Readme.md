@@ -84,7 +84,5 @@ Generates and visualizes images from the trained VQ-VAE under different latent m
   <img src="imgs/org_celeb_and_gen_interpolate_samples.png" width="800">
 </p>
 
----
 © Ashkan M., NTNU  
 Released under the MIT License
----
